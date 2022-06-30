@@ -1,4 +1,4 @@
-execute pathogen#infect()
+# execute pathogen#infect()
 set bg=dark
 set shiftwidth=4
 set tabstop=4
